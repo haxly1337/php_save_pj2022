@@ -1,0 +1,11 @@
+  .noti-alert {
+            font: 20px 'TH SarabunPSK';
+            font-size: 46 px; 
+            color: white;
+            font-weight: bold;
+           background-color: red;
+            padding: 2 px;
+            margin-right: 4px;
+            float: left;
+
+        }
